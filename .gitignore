@@ -1,0 +1,13 @@
+# ROS2 specific
+install/
+build/
+log/
+
+# Python/C++ artifacts
+**/__pycache__
+*.pyc
+*.o
+
+# Gazebo/Ignition temp files
+*.log
+
